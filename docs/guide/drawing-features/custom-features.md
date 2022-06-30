@@ -2,8 +2,8 @@ Sofar we've explored drawing as a tool for models, but it can also be used
 as a tool to generate features. To explore this, let's load in the penguins
 dataset again.
 
-```python
-from sklego.datasets import load_penguins
+```python 
+from sklego.datasets import load_penguins test
 
 df = load_penguins(as_frame=True).dropna()
 ```

@@ -16,7 +16,7 @@ nav:
       - Drawing as a Model VN: guide/drawing-classifier/drawing.md
       - Outliers and Comfort VN: guide/finding-outliers/outliers.md
       - Drawing Features VN: guide/drawing-features/custom-features.md
-  - Api:
+  - Api 1:
     - Models:
       - Classification: api/classification.md
       - Regression: api/regression.md
